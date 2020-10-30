@@ -10,7 +10,7 @@ The binary-crossentropy loss function was leveraged along with the Adam optimize
 
 ![model](https://user-images.githubusercontent.com/48378196/96961401-4be81500-1550-11eb-9cd2-4e0f682c3b56.png)
 
-By the 55th epoch, binary accuracy and validation and reach 82% and and 81%, respectively, in predicting credit card default. 
+By the 55th epoch, binary accuracy and validation and reach 82% and 81%, respectively, in predicting credit card default. 
 
 ![ccdefault](https://user-images.githubusercontent.com/48378196/97688623-7d338880-1aee-11eb-9ce4-918407275c82.png)
 
