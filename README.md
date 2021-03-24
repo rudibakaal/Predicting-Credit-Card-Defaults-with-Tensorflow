@@ -1,9 +1,7 @@
 # Predicting-Credit-Card-Defaults-with-Tensorflow
 
 ## Motivation
-Machine learning binary classification algorithm trained on 30,000 instances of banking data used to predict credit card default.
-
-This research aimed at the case of customer default payments in Taiwan and compares the predictive accuracy of probability of default among six data mining methods[1].
+Neural network trained on 30,000 instances of banking data used to predict credit card default[1].
 
 ## Neural Network Topology and Results Summary
 The binary-crossentropy loss function was leveraged along with the Adam optimizer for this classification problem.
