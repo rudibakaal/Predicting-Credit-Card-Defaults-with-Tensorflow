@@ -13,7 +13,7 @@ By the 55th epoch, binary accuracy and validation and reach 82% and 81%, respect
 ![ccdefault](https://user-images.githubusercontent.com/48378196/97688623-7d338880-1aee-11eb-9ce4-918407275c82.png)
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/) 
+MIT
 
 ## References
 [1] Yeh, I. C., & Lien, C. H. (2009). The comparisons of data mining techniques for the predictive accuracy of probability of default of credit card clients. Expert Systems with Applications, 36(2), 2473-2480.
